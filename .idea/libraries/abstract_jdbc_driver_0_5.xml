@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="abstract-jdbc-driver-0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Shopping/out/artifacts/Shopping_war_exploded/WEB-INF/lib/abstract-jdbc-driver-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Shopping/out/artifacts/Shopping_war_exploded/WEB-INF/lib/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Shopping/out/artifacts/Shopping_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.34_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Shopping/out/artifacts/Shopping_war_exploded/WEB-INF/lib/org.apache.felix.ipojo.annotations-1.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

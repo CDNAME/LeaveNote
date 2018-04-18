@@ -1,0 +1,95 @@
+TD {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #444444; LINE-HEIGHT: 20px; FONT-STYLE: normal; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+BODY {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #444444; LINE-HEIGHT: 18px; FONT-STYLE: normal; FONT-FAMILY: "Arial", "Helvetica", "sans-serif";
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+  padding: 0px; 
+
+}
+a {blr:expression_r(this.onFocus=this.blur())}
+
+A:link {
+	COLOR: #003399;
+	FONT-STYLE: normal;
+	TEXT-DECORATION: none;
+	font-family: "Arial", "Helvetica", "sans-serif";
+
+}
+A:visited {
+	COLOR: 800080;
+	FONT-STYLE: normal;
+	text-decoration: none;
+	font-family: "Arial", "Helvetica", "sans-serif";
+
+
+}
+A:hover {
+	COLOR: #FF6600;
+	FONT-STYLE: normal;
+	TEXT-DECORATION: underline;
+	font-family: "Arial", "Helvetica", "sans-serif";
+
+}
+
+A.top:link {
+	FONT-WEIGHT: bold; COLOR: #44495d; TEXT-DECORATION: none
+}
+A.top:visited {
+	FONT-WEIGHT: bold; COLOR: #44495d; TEXT-DECORATION: none
+}
+A.top:hover {
+	FONT-WEIGHT: bold; COLOR: #666666; TEXT-DECORATION: none
+}
+A.download:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #4c4c4c; TEXT-DECORATION: underline
+}
+A.download:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #4c4c4c; TEXT-DECORATION: underline
+}
+A.download:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ff6701; TEXT-DECORATION: underline
+}
+A.titlelink:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 14px; LINE-HEIGHT: 24px; TEXT-DECORATION: none
+}
+A.titlelink:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #4b8111; LINE-HEIGHT: 24px; TEXT-DECORATION: none
+}
+A.titlelink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #0000FF; LINE-HEIGHT: 24px; TEXT-DECORATION: none
+}
+A.greenblink:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #2d4b10; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+A.greenblink:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #2d4b10; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+A.greenblink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ff6701; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.greenb {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 24px;
+	COLOR: #FFFFFF;
+	LINE-HEIGHT: 30px;
+	font-family: "Î¢ÈíÑÅºÚ";
+
+}
+.featuretitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #444444; LINE-HEIGHT: 24px
+}
+.graytitle {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 32px;
+	COLOR: #444444;
+	font-family: "Î¢ÈíÑÅºÚ";
+	line-height: 60px;
+
+}
+.greenbs {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #69a512
+}

@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="LeaveNote:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/LeaveNote_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="LeaveNote/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="LeaveNote" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="abstract-jdbc-driver-0.5" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/leavenote/WebRoot/WEB-INF/lib/aliyun-java-sdk-core-3.3.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/leavenote/WebRoot/WEB-INF/lib/aliyun-java-sdk-dysmsapi-1.0.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/leavenote/WebRoot/WEB-INF/lib/jstl.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/leavenote/WebRoot/WEB-INF/lib/standard.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/LeaveNote_war_exploded/WEB-INF/lib/aliyun-java-sdk-dysmsapi-1.0.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/LeaveNote_war_exploded/WEB-INF/lib/aliyun-java-sdk-core-3.3.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/LeaveNote_war_exploded/WEB-INF/lib/org.apache.felix.ipojo.annotations-1.12.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/LeaveNote_war_exploded/WEB-INF/lib/jstl.jar" />
+          <element id="library" level="project" name="standard" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

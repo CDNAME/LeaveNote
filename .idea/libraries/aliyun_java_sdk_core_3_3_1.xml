@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="aliyun-java-sdk-core-3.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/LeaveNote_war_exploded/WEB-INF/lib/aliyun-java-sdk-core-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/LeaveNote_war_exploded/WEB-INF/lib/aliyun-java-sdk-dysmsapi-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/LeaveNote_war_exploded/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/LeaveNote_war_exploded/WEB-INF/lib/org.apache.felix.ipojo.annotations-1.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
